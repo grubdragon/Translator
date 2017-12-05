@@ -27,7 +27,7 @@ A simple language translator which takes in strokes of letters and converts the 
 
 ## Demo
 
-[A demo video of the trnaslator](https://www.youtube.com/watch?v=KbpMcCN0BSA)
+[A demo video of the translator](https://www.youtube.com/watch?v=KbpMcCN0BSA)
 
 ## Example Images
 
