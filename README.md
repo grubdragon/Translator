@@ -4,11 +4,16 @@
 
 A simple language translator which takes in strokes of letters and converts the word so formed into a desired language. The translator is based on a Neural Network model which handles the recognition part. Also, MyMemory API is used to recieve a translated version of the original word into the other language.
 
-## Dependencies
+## Installing Dependencies
 
-* scikit-learn
-* translate (MyMemory API)
-* Python-Kivy
+* scikit-learn : 
+	`pip install scikit-learn`
+* translate (MyMemory API) :
+	`pip install translate`
+* Python-Kivy :
+	`sudo add-apt-repository ppa:kivy-team/kivy`
+	`sudo apt-get update`
+	`sudo apt-get install python-kivy`
 
 ## Implementation
 
