@@ -25,8 +25,13 @@ A simple language translator which takes in strokes of letters and converts the 
 
 * Translation :- The word and the languages are passed as parameters to the API to get the translation in the desired language.
 
-## Pickled files
-[https://drive.google.com/drive/folders/143jnYNHY9BJ_g8wNzzal3RwlXtmta7kJ](https://drive.google.com/drive/folders/143jnYNHY9BJ_g8wNzzal3RwlXtmta7kJ)
+## Steps to Run
+* Download the [pickled files](https://drive.google.com/drive/folders/143jnYNHY9BJ_g8wNzzal3RwlXtmta7kJ) in the same directory.
+* Execute `python gui.py` from the terminal.
+* Select the language and number of boxes from the dropdowns.
+* Click 'Start' followed by 'Start Drawing'
+* Write your word. One letter in a box.
+* Click on 'Translate'.
 
 ## Demo
 
