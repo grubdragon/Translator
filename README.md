@@ -25,6 +25,9 @@ A simple language translator which takes in strokes of letters and converts the 
 
 * Translation :- The word and the languages are passed as parameters to the API to get the translation in the desired language.
 
+## Pickled files
+[https://drive.google.com/drive/folders/143jnYNHY9BJ_g8wNzzal3RwlXtmta7kJ](https://drive.google.com/drive/folders/143jnYNHY9BJ_g8wNzzal3RwlXtmta7kJ)
+
 ## Demo
 
 [A demo video of the translator](https://www.youtube.com/watch?v=KbpMcCN0BSA)
